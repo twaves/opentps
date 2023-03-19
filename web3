@@ -1,0 +1,20 @@
+.
+├── contracts
+│   ├── MyContract.sol
+├── migrations
+│   ├── 1_initial_migration.js
+│   ├── 2_deploy_contracts.js
+├── test
+│   ├── MyContract.test.js
+├── frontend
+│   ├── src
+│   │   ├── App.js
+│   │   ├── App.css
+│   │   ├── index.js
+│   │   ├── index.css
+│   ├── public
+│   │   ├── index.html
+├── truffle-config.js
+├── package.json
+├── package-lock.json
+└── README.md
